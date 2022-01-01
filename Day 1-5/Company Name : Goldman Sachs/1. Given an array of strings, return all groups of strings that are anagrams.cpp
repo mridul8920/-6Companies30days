@@ -1,7 +1,7 @@
 Problem link: https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
 
-Expected Time Complexity:O(1)
-Expected Auxillary Space:O(1)
+Expected Time Complexity: O(N*|S|*log|S|), where |S| is the length of the strings.
+Expected Auxiliary Space: O(N*|S|), where |S| is the length of the strings.
 
 class Solution{
   public:
