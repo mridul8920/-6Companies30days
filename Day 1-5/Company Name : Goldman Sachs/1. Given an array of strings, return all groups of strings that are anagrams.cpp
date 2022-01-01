@@ -1,5 +1,8 @@
 Problem link: https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
 
+Expected Time Complexity:O(1)
+Expected Auxillary Space:O(1)
+
 class Solution{
   public:
     vector<vector<string> > Anagrams(vector<string>& ana) {
